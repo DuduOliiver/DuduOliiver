@@ -9,4 +9,4 @@
 
 ### Linguagens de programaçao:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuduOliiver&hide_progress=false&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuduOliiver&hide_progress=true&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
