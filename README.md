@@ -5,7 +5,7 @@
   
 - 🌱 Estudando: TI | Segurança Ofensiva | Python | Bash 
 
-![github-readme-stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DuduOliiver&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+![github-readme-stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DuduOliiver&theme=dark&show_icons=true&include_all_commits=true&count_private=false)
 
 ### Linguagens de programaçao:
 
