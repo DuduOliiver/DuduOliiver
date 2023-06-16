@@ -1,7 +1,7 @@
 ## Hello Friend! 👨‍💻
 <markee>
 
- ### Analista de Infraestrutura | Cibersegurança | DCPT (em progresso) | NSE 1-2 | CTF
+ ### Analista de Cibersegurança | Pentester | CTF | DCPT (em progresso) | NSE 1-2
   
 - 🌱 Estudando: TI | Segurança Ofensiva | Python | Bash 
 
