@@ -1,7 +1,7 @@
 ## Hello Friend! 👨‍💻
 <markee>
 
- ### Analista de Cibersegurança | Pentester | CTF | DCPT (em progresso) | NSE 1-2
+ ### Analista de Cibersegurança | Pentester | CTF player
   
 - 🌱 Estudando: TI | Segurança Ofensiva | Python | Bash 
 
