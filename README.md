@@ -3,7 +3,7 @@
 
  ### Analista de Cibersegurança | Pentester | CTF player
   
-- 🌱 Estudando: TI | Segurança Ofensiva/Defensiva | C | Assembly | Reversing 
+- 🌱 Segurança Ofensiva/Defensiva | C | Python
 
 ![github-readme-stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DuduOliiver&theme=dark&show_icons=true&include_all_commits=true&count_private=false)
 
